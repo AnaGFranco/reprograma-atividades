@@ -1,20 +1,20 @@
-01. Faça um algoritmo que imprima números inteiros de n a 1;
+01. FaÃ§a um algoritmo que imprima nÃºmeros inteiros de n a 1;
 
-02. Faça um algoritmo que imprima apenas os números ímpares de 1 a 100; (do-while)
+02. FaÃ§a um algoritmo que imprima apenas os nÃºmeros Ã­mpares de 1 a 100; (do-while)
 
-03. Dados dois números calcule o MDC deles.
+03. Dados dois nÃºmeros calcule o MDC deles.
 
-04. Faça um algoritmo que imprima a soma dos números múltiplos de 3 e 5, menores que 1000.
+04. FaÃ§a um algoritmo que imprima a soma dos nÃºmeros mÃºltiplos de 3 e 5, menores que 1000.
 
-05. Seu Miguel da vendinha da esquina, não sabe multiplicar. Faça para ele um programa que dado um número, print (console.log) a tabuada do mesmo de 1 a 10.
+05. Seu Miguel da vendinha da esquina, nÃ£o sabe multiplicar. FaÃ§a para ele um programa que dado um nÃºmero, print (console.log) a tabuada do mesmo de 1 a 10.
 
-06. Faça um programa que leia 5 números e informe o maior número.
+06. FaÃ§a um programa que leia 5 nÃºmeros e informe o maior nÃºmero.
 
-07. Faça um Programa que leia um array de 5 números inteiros e mostre-os. (Fazer com a mamãe)
+07. FaÃ§a um Programa que leia um array de 5 nÃºmeros inteiros e mostre-os. (Fazer com a mamÃ£e)
 
-08. O Sr. Manoel Joaquim possui uma grande loja de artigos de R$ 1,99, com cerca de 10 caixas. Para agilizar o cálculo de quanto cada cliente deve pagar ele desenvolveu um tabela que contém o número de itens que o cliente comprou e ao lado o valor da conta. Desta forma a atendente do caixa precisa apenas contar quantos itens o cliente está levando e olhar na tabela de preços. Você foi contratado para desenvolver o programa que monta esta tabela de preços, que conterá os preços de 1 até 50 produtos, conforme o exemplo abaixo:
+08. O Sr. Manoel Joaquim possui uma grande loja de artigos de R$ 1,99, com cerca de 10 caixas. Para agilizar o cÃ¡lculo de quanto cada cliente deve pagar ele desenvolveu um tabela que contÃ©m o nÃºmero de itens que o cliente comprou e ao lado o valor da conta. Desta forma a atendente do caixa precisa apenas contar quantos itens o cliente estÃ¡ levando e olhar na tabela de preÃ§os. VocÃª foi contratado para desenvolver o programa que monta esta tabela de preÃ§os, que conterÃ¡ os preÃ§os de 1 atÃ© 50 produtos, conforme o exemplo abaixo:
 
-Lojas Quase Dois - Tabela de preços
+Lojas Quase Dois - Tabela de preÃ§os
 
 1 - R$ 1.99
 
@@ -24,12 +24,12 @@ Lojas Quase Dois - Tabela de preços
 
 50 - R$ 99.50
 
-09. Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. Um número primo é aquele que é divisível somente por ele mesmo e por 1.
+09. FaÃ§a um programa que peÃ§a um nÃºmero inteiro e determine se ele Ã© ou nÃ£o um nÃºmero primo. Um nÃºmero primo Ã© aquele que Ã© divisÃ­vel somente por ele mesmo e por 1.
 
-10. A série de Fibonacci é formada pela seqüência 0,1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o n-ésimo termo.
+10. A sÃ©rie de Fibonacci Ã© formada pela seqÃ¼Ãªncia 0,1,1,2,3,5,8,13,21,34,55,... FaÃ§a um programa capaz de gerar a sÃ©rie atÃ© o n-Ã©simo termo.
 
 
-11. O Sr. Manoel Joaquim expandiu seus negócios para além dos negócios de 1,99 e agora possui uma loja de conveniências. Faça um programa que implemente uma caixa registradora rudimentar. O programa deverá receber um número desconhecido de valores referentes aos preços das mercadorias. Um valor zero deve ser informado pelo operador para indicar o final da compra. O programa deve então mostrar o total da compra e perguntar o valor em dinheiro que o cliente forneceu, para então calcular e mostrar o valor do troco. Após esta operação, o programa deverá voltar ao ponto inicial, para registrar a próxima compra. A saída deve ser conforme o exemplo abaixo:
+11. O Sr. Manoel Joaquim expandiu seus negÃ³cios para alÃ©m dos negÃ³cios de 1,99 e agora possui uma loja de conveniÃªncias. FaÃ§a um programa que implemente uma caixa registradora rudimentar. O programa deverÃ¡ receber um nÃºmero desconhecido de valores referentes aos preÃ§os das mercadorias. Um valor zero deve ser informado pelo operador para indicar o final da compra. O programa deve entÃ£o mostrar o total da compra e perguntar o valor em dinheiro que o cliente forneceu, para entÃ£o calcular e mostrar o valor do troco. ApÃ³s esta operaÃ§Ã£o, o programa deverÃ¡ voltar ao ponto inicial, para registrar a prÃ³xima compra. A saÃ­da deve ser conforme o exemplo abaixo:
 
 Lojas Tabajara
 
@@ -45,9 +45,9 @@ Dinheiro: R$ 20.00
 
 Troco: R$ 11.00
 
-12. O Departamento Estadual de Meteorologia lhe contratou para desenvolver um programa que leia as um conjunto indeterminado de temperaturas, e informe ao final a menor e a maior temperaturas informadas, bem como a média das temperaturas.
+12. O Departamento Estadual de Meteorologia lhe contratou para desenvolver um programa que leia as um conjunto indeterminado de temperaturas, e informe ao final a menor e a maior temperaturas informadas, bem como a mÃ©dia das temperaturas.
 
-13. Em uma competição de ginástica, cada atleta recebe votos de sete jurados. A melhor e a pior nota são eliminadas. A sua nota fica sendo a média dos votos restantes. Você deve fazer um programa que receba o nome do ginasta e as notas dos sete jurados (um array) alcançadas pelo atleta em sua apresentação e depois informe a sua média, conforme a descrição acima informada. As notas não são informados ordenadas. Um exemplo de saída do programa deve ser conforme o exemplo abaixo:
+13. Em uma competiÃ§Ã£o de ginÃ¡stica, cada atleta recebe votos de sete jurados. A melhor e a pior nota sÃ£o eliminadas. A sua nota fica sendo a mÃ©dia dos votos restantes. VocÃª deve fazer um programa que receba o nome do ginasta e as notas dos sete jurados (um array) alcanÃ§adas pelo atleta em sua apresentaÃ§Ã£o e depois informe a sua mÃ©dia, conforme a descriÃ§Ã£o acima informada. As notas nÃ£o sÃ£o informados ordenadas. Um exemplo de saÃ­da do programa deve ser conforme o exemplo abaixo:
 
 Resultado final:
 
@@ -57,19 +57,19 @@ Melhor nota: 9.9
 
 Pior nota: 7.5
 
-Média: 9.04
+MÃ©dia: 9.04
 
-14. Para calcular o fatorial de um número, você multiplica todos os números menores que ele até 1. Por exemplo, 10! = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1. Faça um algoritmo que dado um número calcule o fatorial do mesmo.
+14. Para calcular o fatorial de um nÃºmero, vocÃª multiplica todos os nÃºmeros menores que ele atÃ© 1. Por exemplo, 10! = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1. FaÃ§a um algoritmo que dado um nÃºmero calcule o fatorial do mesmo.
 
-15. Faça uma função que receba uma quantidade x e retorne um array com x números randomicos.
+15. FaÃ§a uma funÃ§Ã£o que receba uma quantidade x e retorne um array com x nÃºmeros randomicos.
 
-16. Faça um algoritmo que sortei cara (0) ou coroa (1) n vezes. E no fim mostre quantas vezes deu cara e quantas coroa.
+16. FaÃ§a um algoritmo que sortei cara (0) ou coroa (1) n vezes. E no fim mostre quantas vezes deu cara e quantas coroa.
 
-17. Escreva um algoritmo que printe o seguinte padrão no console:
+17. Escreva um algoritmo que printe o seguinte padrÃ£o no console:
 
-*******
+/*******
 
-******
+/******
 
 *****
 
@@ -81,7 +81,7 @@ Média: 9.04
 
 *
 
-18. Escreva um algoritmo que printe o seguinte padrão no console:
+18. Escreva um algoritmo que printe o seguinte padrÃ£o no console:
 
 1
 
@@ -93,11 +93,11 @@ Média: 9.04
 
 55555
 
-19. Pangrama é uma frase que possui todas as letras do alfabeto. Faça um algoritmo que verifique se uma frase é um pangrama ou não.
+19. Pangrama Ã© uma frase que possui todas as letras do alfabeto. FaÃ§a um algoritmo que verifique se uma frase Ã© um pangrama ou nÃ£o.
 
-20. Crie um algoritmo que dados dois números calcule o MMC (Mínimo Múltiplo Comum)
+20. Crie um algoritmo que dados dois nÃºmeros calcule o MMC (MÃ­nimo MÃºltiplo Comum)
 
-21. Escreva um loop em Javascript que printa o seguinte padrão no console: 1******
+21. Escreva um loop em Javascript que printa o seguinte padrÃ£o no console: 1******
 
 12*****
 
