@@ -67,9 +67,9 @@ Média: 9.04
 
 17. Escreva um algoritmo que printe o seguinte padrão no console:
 
-/*******
+*******
 
-/******
+******
 
 *****
 
