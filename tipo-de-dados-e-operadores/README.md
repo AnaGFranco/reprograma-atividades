@@ -1,4 +1,4 @@
-**Descrição da atividade**
+**Descrições das atividades**
 
 01- Crie uma função que receba 1 parâmetro e calcule 5% de desconto, retornando o valor do desconto;
 
