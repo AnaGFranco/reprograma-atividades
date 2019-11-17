@@ -1,24 +1,26 @@
-1. Crie um código que retorne a quantidade de pontos que seu time fez de acordo com o resultado do jogo. (Se o seu time venceu, ele recebe 3 pontos. Se o resultado foi empate, ele recebe 1 ponto. Se ele perdeu, não recebe nada.)
+**DescriÃ§Ãµes das atividades**
 
-2. Palíndromos são palavras ou frases que podem ser lidas da esquerda para a direita ou da direita para a esquerda. Crie uma função que informe se uma palavra é uma palíndromo.
+1. Crie um cÃ³digo que retorne a quantidade de pontos que seu time fez de acordo com o resultado do jogo. (Se o seu time venceu, ele recebe 3 pontos. Se o resultado foi empate, ele recebe 1 ponto. Se ele perdeu, nÃ£o recebe nada.)
 
-3. Faça uma função que dado um número, retorne se ele é par ou ímpar.
+2. PalÃ­ndromos sÃ£o palavras ou frases que podem ser lidas da esquerda para a direita ou da direita para a esquerda. Crie uma funÃ§Ã£o que informe se uma palavra Ã© uma palÃ­ndromo.
 
-4. Faça uma função que dado um número, retorne a classificação do ângulo. (Ângulo agudo: ângulo com medida maior que 0° menor que 90°; Ângulo reto: ângulo com medida igual a 90°; Ângulo obtuso: ângulo com medida maior que 90° e menor que 180°; Ângulo raso: ângulo com medida igual a 0° ou 180°; Ângulo Côncavo: ângulo com medida entre 180° e 360°; Ângulo completo: ângulo com medida igual a 360°).
+3. FaÃ§a uma funÃ§Ã£o que dado um nÃºmero, retorne se ele Ã© par ou Ã­mpar.
 
-5. Baseado na tabela abaixo, retorne a classificação de um produto.
+4. FaÃ§a uma funÃ§Ã£o que dado um nÃºmero, retorne a classificaÃ§Ã£o do Ã¢ngulo. (Ã‚ngulo agudo: Ã¢ngulo com medida maior que 0Â° menor que 90Â°; Ã‚ngulo reto: Ã¢ngulo com medida igual a 90Â°; Ã‚ngulo obtuso: Ã¢ngulo com medida maior que 90Â° e menor que 180Â°; Ã‚ngulo raso: Ã¢ngulo com medida igual a 0Â° ou 180Â°; Ã‚ngulo CÃ´ncavo: Ã¢ngulo com medida entre 180Â° e 360Â°; Ã‚ngulo completo: Ã¢ngulo com medida igual a 360Â°).
 
-Código	Classificação
-1- Alimento não-perecível
-2,3 ou 4- Alimento perecível
-5 ou 6- Vestuário
+5. Baseado na tabela abaixo, retorne a classificaÃ§Ã£o de um produto.
+
+CÃ³digo	ClassificaÃ§Ã£o
+1- Alimento nÃ£o-perecÃ­vel
+2,3 ou 4- Alimento perecÃ­vel
+5 ou 6- VestuÃ¡rio
 7- Higiene Pessoal 
-8 até 15- Limpeza e Utensílios Domésticos
-Qualquer outro código	Código inválido
+8 atÃ© 15- Limpeza e UtensÃ­lios DomÃ©sticos
+Qualquer outro cÃ³digo	CÃ³digo invÃ¡lido
 
-6. Baseado na tabela abaixo, escreva um algoritmo que leia o código do item adquirido pelo consumidor e a quantidade, calculando e mostrando o valor a pagar. A mensagem de retorno deve conter o produto, a quantidade e o valor total a pagar.
+6. Baseado na tabela abaixo, escreva um algoritmo que leia o cÃ³digo do item adquirido pelo consumidor e a quantidade, calculando e mostrando o valor a pagar. A mensagem de retorno deve conter o produto, a quantidade e o valor total a pagar.
 
-Código	Produto	Preço Unitário (R$)
+CÃ³digo	Produto	PreÃ§o UnitÃ¡rio (R$)
 100	Cachorro quente	R$ 1,70
 101	Bauru Simples	R$ 2,30
 102	Bauru com ovo	R$ 2,60
@@ -26,16 +28,16 @@ Código	Produto	Preço Unitário (R$)
 104	Cheeseburguer	R$ 2,50
 105	Refrigerante	R$ 1,00
 
-7. Escreva um código que receba dois número e determine qual o maior entre eles.
+7. Escreva um cÃ³digo que receba dois nÃºmero e determine qual o maior entre eles.
 
-8. Escreva um código que receba um número (1-7) e devolva o dia da semana correspondente.
+8. Escreva um cÃ³digo que receba um nÃºmero (1-7) e devolva o dia da semana correspondente.
 
-9. Escreva um código que receba um número (1-12), e diga qual mês e quantos dias ele tem.
+9. Escreva um cÃ³digo que receba um nÃºmero (1-12), e diga qual mÃªs e quantos dias ele tem.
 
-10. Utilizando switch-case, receba uma letra e determine se é uma vogal ou consoante.
+10. Utilizando switch-case, receba uma letra e determine se Ã© uma vogal ou consoante.
 
-11. Escreva um código que receba três ângulos e determine se eles formam um triângulo válido. Em um triângulo válido, a soma dos três ângulos é igual a 180º.
+11. Escreva um cÃ³digo que receba trÃªs Ã¢ngulos e determine se eles formam um triÃ¢ngulo vÃ¡lido. Em um triÃ¢ngulo vÃ¡lido, a soma dos trÃªs Ã¢ngulos Ã© igual a 180Âº.
 
-12. Vamos reescrever a função de Báskara. Para isso temos que verificar atráves de delta se é possível calcular x' e x". Se delta for menor que zero, a equação não tem raízes. Se delta for igual a zero, a equação tem uma raiz. Se delta for maior que zero, a equação tem duas raízes.
+12. Vamos reescrever a funÃ§Ã£o de BÃ¡skara. Para isso temos que verificar atrÃ¡ves de delta se Ã© possÃ­vel calcular x' e x". Se delta for menor que zero, a equaÃ§Ã£o nÃ£o tem raÃ­zes. Se delta for igual a zero, a equaÃ§Ã£o tem uma raiz. Se delta for maior que zero, a equaÃ§Ã£o tem duas raÃ­zes.
 
 13. Crie uma calculadora simples.
