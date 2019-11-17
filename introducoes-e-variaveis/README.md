@@ -1,6 +1,7 @@
-
-1. Faça uma mensagem de "Olá Mundo!"
-2. Faça uma saída de soma de 2 números.
-3. Utilizando variáveis, solicite o ano de nascimento do usuário, calcule sua idade e mostre em um alert.
-4. Receba do usuários 3 números e calcule a média entre eles.
+**DescriÃ§Ãµes das atividades**
+  
+1. FaÃ§a uma mensagem de "OlÃ¡ Mundo!"
+2. FaÃ§a uma saÃ­da de soma de 2 nÃºmeros.
+3. Utilizando variÃ¡veis, solicite o ano de nascimento do usuÃ¡rio, calcule sua idade e mostre em um alert.
+4. Receba do usuÃ¡rios 3 nÃºmeros e calcule a mÃ©dia entre eles.
 5- Calculando desconto de 5%
