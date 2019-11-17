@@ -1,3 +1,6 @@
+
+**Descrições das atividades**  
+
 01. Faça um algoritmo que imprima números inteiros de n a 1;
 
 02. Faça um algoritmo que imprima apenas os números ímpares de 1 a 100; (do-while)
@@ -67,19 +70,13 @@ Média: 9.04
 
 17. Escreva um algoritmo que printe o seguinte padrão no console:
 
-*******
-
-******
-
-*****
-
-****
-
-***
-
-**
-
-*
+`*******`  
+`******`  
+`*****`  
+`****`  
+`***`  
+`**`  
+`*`  
 
 18. Escreva um algoritmo que printe o seguinte padrão no console:
 
