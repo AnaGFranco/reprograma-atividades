@@ -1,19 +1,21 @@
-01- Crie uma funÁ„o que receba 1 par‚metro e calcule 5% de desconto, retornando o valor do desconto;
+**Descri√ß√£o da atividade**
 
-02- Crie uma funÁ„o que receba 2 par‚metros e exiba o resultado e o resto da divis„o entre eles;
+01- Crie uma fun√ß√£o que receba 1 par√¢metro e calcule 5% de desconto, retornando o valor do desconto;
 
-03- Crie uma funÁ„o que recebe 2 par‚metros (altura e peso) e retorna o IMC;
+02- Crie uma fun√ß√£o que receba 2 par√¢metros e exiba o resultado e o resto da divis√£o entre eles;
 
-04- Crie uma funÁ„o que recebe 3 par‚metros, e utilizando a fÛrmula de B·skara, mostre o resultado de x' e x".
+03- Crie uma fun√ß√£o que recebe 2 par√¢metros (altura e peso) e retorna o IMC;
 
-05- Refatore seu cÛdigo da quest„o anterior, de maneira que o novo cÛdigo possua 3 funÁıes:
+04- Crie uma fun√ß√£o que recebe 3 par√¢metros, e utilizando a f√≥rmula de B√°skara, mostre o resultado de x' e x".
 
-a. A primeira recebe 3 par‚metros e calcula apenas o resultado de "delta";
+05- Refatore seu c√≥digo da quest√£o anterior, de maneira que o novo c√≥digo possua 3 fun√ß√µes:
 
-b. A segunda recebe 3 par‚metros e calcula o resultado de x';
+a. A primeira recebe 3 par√¢metros e calcula apenas o resultado de "delta";
 
-c. A terceira recebe 3 par‚metros e calcula o resultado de x";
+b. A segunda recebe 3 par√¢metros e calcula o resultado de x';
 
-06- Crie uma funÁ„o que calcule quantos dias o usu·rio viveu, baseado na idade;
+c. A terceira recebe 3 par√¢metros e calcula o resultado de x";
 
-07- Crie uma funÁ„o que calcule quantos batidas por dia d· um coraÁ„o, considerando que, ele bate a 70 bpm;
+06- Crie uma fun√ß√£o que calcule quantos dias o usu√°rio viveu, baseado na idade;
+
+07- Crie uma fun√ß√£o que calcule quantos batidas por dia d√° um cora√ß√£o, considerando que, ele bate a 70 bpm;
