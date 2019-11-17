@@ -1,9 +1,11 @@
-01- Crie uma função que dado um número seja retornado o número reverso. Ex.: dado 1234, devolve 4321.
+**DescriÃ§Ãµes das atividades**
 
-02- Crie uma função que recebe uma palavra e ordena suas letras em ordem alfabética.
+01- Crie uma funÃ§Ã£o que dado um nÃºmero seja retornado o nÃºmero reverso. Ex.: dado 1234, devolve 4321.
 
-03- Crie uma função que receba uma string, contendo nome e sobrenome, e retorne as inicias. Ex.: dado "Débora Borges", retorne "DB".
+02- Crie uma funÃ§Ã£o que recebe uma palavra e ordena suas letras em ordem alfabÃ©tica.
 
-04- Crie uma função que receba a quantidade de bilhetes vendidos em um concurso e sorteie um bilhete.
+03- Crie uma funÃ§Ã£o que receba uma string, contendo nome e sobrenome, e retorne as inicias. Ex.: dado "DÃ©bora Borges", retorne "DB".
 
-05- Altere a função que calcula IMC de maneira que o valor do IMC tenha apenas duas casas decimais.
+04- Crie uma funÃ§Ã£o que receba a quantidade de bilhetes vendidos em um concurso e sorteie um bilhete.
+
+05- Altere a funÃ§Ã£o que calcula IMC de maneira que o valor do IMC tenha apenas duas casas decimais.
